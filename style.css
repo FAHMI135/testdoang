@@ -1,0 +1,23 @@
+/* HAPUS KALAU UDAH JADI */
+body {
+  min-height: 3000px;
+}
+/* HAPUS KALAU UDAH JADI */
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #f8ff94;
+}
+
+.ratakiri {
+  text-align: left;
+}
+
+#projects {
+  background-color: #f8ff94;
+}
+
+section {
+  padding-top: 5rem;
+  padding-left: 8rem;
+  padding-right: 8rem;
+}
